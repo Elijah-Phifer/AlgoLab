@@ -1,0 +1,10 @@
+# Backend .gitignore
+bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+*.swp
+*.*~
+appsettings.Development.json
